@@ -1,0 +1,21 @@
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\bin\Debug\examen1 lenguaje3.exe.config
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\bin\Debug\examen1 lenguaje3.exe
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\bin\Debug\examen1 lenguaje3.pdb
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.csproj.AssemblyReference.cache
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.csproj.SuggestedBindingRedirects.cache
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1_lenguaje3.PrestamoForm.resources
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1_lenguaje3.DescuentoForm.resources
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1_lenguaje3.Properties.Resources.resources
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.csproj.GenerateResource.cache
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.csproj.CoreCompileInputs.cache
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.exe
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.pdb
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\Examen1-lenguaje3\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.csproj.AssemblyReference.cache
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\Examen1-lenguaje3\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.csproj.SuggestedBindingRedirects.cache
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\Examen1-lenguaje3\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1_lenguaje3.PrestamoForm.resources
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\Examen1-lenguaje3\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1_lenguaje3.DescuentoForm.resources
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\Examen1-lenguaje3\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1_lenguaje3.Properties.Resources.resources
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\Examen1-lenguaje3\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.csproj.GenerateResource.cache
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\Examen1-lenguaje3\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.csproj.CoreCompileInputs.cache
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\Examen1-lenguaje3\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.exe
+C:\Users\javyp\Documents\Lenguaje 3 2023\examen 1\Examen1-lenguaje3\examen1 lenguaje3\examen1 lenguaje3\obj\Debug\examen1 lenguaje3.pdb
